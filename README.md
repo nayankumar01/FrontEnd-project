@@ -1,4 +1,4 @@
-#Front-End Project Description using HTML, CSS, and JavaScript
+# Front-End Project Description using HTML, CSS, and JavaScript
 Project Overview: This project involves creating a dynamic and interactive web application using HTML, CSS, and JavaScript. The application will provide a seamless user experience through an intuitive interface and efficient data handling. It will incorporate various front-end technologies to build a responsive, user-friendly web application suitable for a wide range of devices, including desktops, tablets, and smartphones.
 
 Technologies Used:
